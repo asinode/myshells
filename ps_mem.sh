@@ -7,7 +7,9 @@ echo
 echo "========================================================================="
 echo "1. TOOL NAME: ps_mem.py"
 echo "2. TOOL SOURCE: https://github.com/pixelb/ps_mem.git"
-echo "3. TOOL IDEA SOURCE: http://techarena51.com/index.php/linux-memory-usage/"
+echo "3. TOOL OWNER: Pádraig Brady (https://github.com/pixelb)"
+echo "4. TOOL IDEA SOURCE: http://techarena51.com/index.php/linux-memory-usage/"
+echo "5. AUTHOR OF THE ABOVE ARTICLE: Leo-G (https://github.com/Leo-g)"
 echo "========================================================================="
 echo
 echo
